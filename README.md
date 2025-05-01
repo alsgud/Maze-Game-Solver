@@ -26,11 +26,11 @@ A standalone, interactive Java maze game featuring visualizations of multiple pa
 - Visual solver playback: shows visited tiles and move cost
 - Strategy Pattern used to swap solvers dynamically
 - Tile color legend:
-  - 🟥 Black: Walls  
+  - ⬛ Black: Walls  
   - ⬜ White: Open path  
   - 🟦 Blue: Goal  
   - 🟩 Green: Player  
-  - ⬛ Grey: Visited by solver  
+  - ⬛⬜ Grey: Visited by solver  
 
 ## Object-Oriented Design
 
